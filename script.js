@@ -18,3 +18,9 @@
 // personalMovieDB.movies[c] = d;
 
 // console.log(personalMovieDB.movies)
+ // Значения массива менять нельзя, тут он проверяется автоматически именно на эти значения
+
+
+let t = (a, b) => a + b;
+
+console.log(t(5, 6));
